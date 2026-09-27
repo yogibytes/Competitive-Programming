@@ -1,5 +1,6 @@
 
 #include <bits/stdc++.h>
+#include<io.h>
 using namespace std;
 
 int findDigit(long long number) {
